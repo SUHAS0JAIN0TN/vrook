@@ -10,11 +10,11 @@ Now, help Ashoke to maximize his profits by suggesting him the shortest distance
 
 For example, given the following distances:
 
-Bangalore to Hubli = 464
+`Bangalore to Hubli` = 464
 <br />
-Bangalore to Goa = 518
+`Bangalore to Goa` = 518
 <br />
-Hubli to Davanagere = 141
+`Hubli to Davanagere` = 141
 <br />
 
 The possible routes are:
@@ -33,6 +33,6 @@ Davanagere -> Bangalore -> Hubli = 982
 <br />
 <br />
 
-The shortest of there is Bangalore -> Hubli -> Davanagere = 605, so the answer is 605 for this example.
+The shortest path here is `Bangalore -> Hubli -> Davanagere = 605`, so the answer is `605` for this example.
 
 Help Ashoke! Find the input file in the repository.
