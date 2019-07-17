@@ -12,7 +12,7 @@ For example, given the following distances:
 
 `Bangalore to Hubli` = 464
 <br />
-`Bangalore to Goa` = 518
+`Bangalore to Davanagere` = 518
 <br />
 `Hubli to Davanagere` = 141
 <br />
