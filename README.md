@@ -11,8 +11,11 @@ Now, help Ashoke to maximize his profits by suggesting him the shortest distance
 For example, given the following distances:
 
 Bangalore to Hubli = 464
+<br />
 Bangalore to Goa = 518
+<br />
 Hubli to Davanagere = 141
+<br />
 
 The possible routes are:
 
@@ -28,6 +31,8 @@ Davanagere -> Hubli -> Bangalore = 605
 <br />
 Davanagere -> Bangalore -> Hubli = 982
 <br />
-The shrotest of there is Bangalore -> Hubli -> Davanagere = 605, so the answer is 605 for this example.
+<br />
+
+The shortest of there is Bangalore -> Hubli -> Davanagere = 605, so the answer is 605 for this example.
 
 Help Ashoke! Find the input file in the repository.
