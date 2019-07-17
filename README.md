@@ -12,27 +12,27 @@ For example, given the following distances:
 
 `Bangalore to Hubli` = 464
 <br />
-`Bangalore to Davanagere` = 518
+`Bangalore to Dharwad` = 518
 <br />
-`Hubli to Davanagere` = 141
+`Hubli to Dharwad` = 141
 <br />
 
 The possible routes are:
 
-Hubli -> Bangalore -> Davanagere = 982
+Hubli -> Bangalore -> Dharwad = 982
 <br />
-Bangalore -> Hubli -> Davanagere = 605
+Bangalore -> Hubli -> Dharwad = 605
 <br />
-Bangalore -> Davanagere -> Hubli = 659
+Bangalore -> Dharwad -> Hubli = 659
 <br />
-Hubli -> Davanagere -> Bangalore = 659
+Hubli -> Dharwad -> Bangalore = 659
 <br />
-Davanagere -> Hubli -> Bangalore = 605
+Dharwad -> Hubli -> Bangalore = 605
 <br />
-Davanagere -> Bangalore -> Hubli = 982
+Dharwad -> Bangalore -> Hubli = 982
 <br />
 <br />
 
-The shortest path here is `Bangalore -> Hubli -> Davanagere = 605`, so the answer is `605` for this example.
+The shortest path here is `Bangalore -> Hubli -> Dharwad = 605`, so the answer is `605` for this example.
 
 Help Ashoke! Find the input file in the repository.
