@@ -1,8 +1,8 @@
 ### python assignment
 
-Ashoke, a young budding _Travel Entrepeneur_, is quite saddened after incurring loss from several of his trips.
+Ashoke, a young budding _Travel Entrepeneur_, is quite saddened after incurring loss from past several trips.
 
-He gets an offer from one of the travel agencies to carry out a trip for them. Ashoke is lit! This is his first venture towards making a profit.
+He gets an offer from one of the travel agencies to carry out a trip. Ashoke is lit! This is his first venture towards making a profit.
 
 Travel agency provides Ashoke the distances between every pair of locations he needs to cover. He can start and end at any two (different) locations he wants, but he must make sure that he takes travellers to visit each location exactly once.
 
